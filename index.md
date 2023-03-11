@@ -19,6 +19,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## SKU
 
 - [zhfr230311](./sku/zhfr230311.html)
+- [zhfr230311_2](./sku/zhfr230311_2.html)
+- ...
 
 
 
