@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+文字可以是 **粗**, _斜_, or ~~删除线~~.
 
 [Link to another page](./another-page.html).
 
