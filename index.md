@@ -4,7 +4,7 @@ layout: default
 
 文字可以是 **粗**, _斜_, or ~~删除线~~.
 
-[Link to another page](./another-page.html).
+[SUPPORT](./docs/SUPPORT.html).
 
 There should be whitespace between paragraphs.
 
