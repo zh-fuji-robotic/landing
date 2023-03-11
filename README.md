@@ -15,7 +15,8 @@ AliExpress is odd...
 ## trace
 
 - re-init. all gh-pages at first
-
+    + [Latest Performance Report for: https://zh-fuji-robotic.github.io/landing/ | GTmetrix](https://gtmetrix.com/reports/zh-fuji-robotic.github.io/oeddghW8/ "Latest Performance Report for: https://zh-fuji-robotic.github.io/landing/ | GTmetrix")
+    + ...
 
 ## logging
 
