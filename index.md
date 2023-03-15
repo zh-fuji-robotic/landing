@@ -20,7 +20,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 - [zhfr230311](./sku/zhfr230311.html)
 - [zhfr230311_2](./sku/zhfr230311_2.html)
-- [zhfr230311_2](./sku/zhfr230311_2.html)
+- [zhfr230311_3](./sku/zhfr230311_3.html)
+- [zhfr230311_4](./sku/zhfr230311_4.html)
 
 
 
