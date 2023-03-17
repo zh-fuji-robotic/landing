@@ -25,8 +25,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 # cameras
+- [MER2-U3 Series](./cameras/MER2-U3 Series.html)
+- [MER2-G Series](./cameras/MER2-G Series.html)
 # lens
-- [docs](./docs/lens.html)
+- [Fixed Focal Length Lenses ](./lens/Fixed Focal Length Lenses.html)
+- [Telecentric Lenses  ](./lens/Telecentric Lenses  .html)
 # robots
 # new products
 
