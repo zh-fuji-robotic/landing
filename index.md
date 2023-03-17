@@ -6,7 +6,7 @@ layout: default
 
 <<<<<<< HEAD
 [SUPPORT](./docs/SUPPORT.html).
-[price](./doc/price.html).
+
 =======
 - [SUPPORT](./docs/SUPPORT.html).
 - [SUPPORT](./docs/SUPPORT.md)?
@@ -24,7 +24,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 
-# 大标题
+# cameras
+# lens
+# robots
+# new products
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
