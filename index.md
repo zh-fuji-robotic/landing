@@ -4,6 +4,10 @@ layout: default
 
 文字可以是 **粗**, _斜_, or ~~删除线~~.
 
+<<<<<<< HEAD
+[SUPPORT](./docs/SUPPORT.html).
+[price](./doc/price.html).
+=======
 - [SUPPORT](./docs/SUPPORT.html).
 - [SUPPORT](./docs/SUPPORT.md)?
 - [SUPPORT](./docs/SUPPORT)??
@@ -13,6 +17,7 @@ layout: default
 - ...??????
 
 
+>>>>>>> 3c4bc15fed8899959139c81f07a69dabf7a9374c
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
