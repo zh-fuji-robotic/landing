@@ -26,6 +26,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # cameras
 # lens
+- [docs](./docs/lens.html)
 # robots
 # new products
 
