@@ -4,7 +4,14 @@ layout: default
 
 文字可以是 **粗**, _斜_, or ~~删除线~~.
 
-[SUPPORT](./docs/SUPPORT.html).
+- [SUPPORT](./docs/SUPPORT.html).
+- [SUPPORT](./docs/SUPPORT.md)?
+- [SUPPORT](./docs/SUPPORT)??
+- [SUPPORT](/docs/SUPPORT.html)???
+- [SUPPORT](/docs/SUPPORT.md)????
+- [SUPPORT](/docs/SUPPORT)????
+- ...??????
+
 
 There should be whitespace between paragraphs.
 
