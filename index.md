@@ -10,11 +10,7 @@ layout: default
 =======
 - [SUPPORT](./docs/SUPPORT.html).
 - [SUPPORT](./docs/SUPPORT.md)?
-- [SUPPORT](./docs/SUPPORT)??
-- [SUPPORT](/docs/SUPPORT.html)???
-- [SUPPORT](/docs/SUPPORT.md)????
-- [SUPPORT](/docs/SUPPORT)????
-- ...??????
+
 
 
 >>>>>>> 3c4bc15fed8899959139c81f07a69dabf7a9374c
