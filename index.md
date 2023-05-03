@@ -39,7 +39,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 - [zhfr230311](./sku/zhfr230311.html)
 - [zhfr230311_2](./sku/zhfr230311_2.html)
-- [Mer2-231-41U3C]](./sku/Mer2-231-41U3C].html)
+- [Mer2-231-41U3C](./sku/Mer2-231-41U3C.html)
 - [Mer2-231-41U3C](./sku/Mer2-231-41U3C.html)
 
 
