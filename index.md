@@ -20,23 +20,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 
-# cameras
-- [MER2-U3 Series](./cameras/MER2-U3 Series.html)
-- [MER2-G Series](./cameras/MER2-G Series.html)
-# lens
-- [Fixed Focal Length Lenses ](./lens/Fixed Focal Length Lenses.html)
-- [Telecentric Lenses  ](./lens/Telecentric Lenses  .html)
-# robots
-# new products
-
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## SKU
+## industrial camera
 
-- [zhfr230311](./sku/zhfr230311.html)
-- [zhfr230311_2](./sku/zhfr230311_2.html)
-- [Mer2-231-41U3C](./sku/Mer2-231-41U3C.html)
-- [Mer2-231-41U3C](./sku/Mer2-231-41U3C.html)
+- [zhfr230311](./industrial camera/zhfr230311.html)
+- [zhfr230311_2](./industrial camera/zhfr230311_2.html)
+- [Mer2-231-41U3C](./industrial camera/Mer2-231-41U3C.html)
+- [Mer2-231-41U3C](./industrial camera/Mer2-231-41U3C.html)
 
 
 ## 子标题
